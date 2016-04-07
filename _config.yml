@@ -1,7 +1,7 @@
 name: Test Cable Street
 favicon: null
 layout_spectrum: 0.69064
-typography_spectrum: 0.36401
+typography_spectrum: 0.35919
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#2a527a'
     - '#597898'
     - '#abb8c7'
-  brandStrength: 0.8683031920809299
+  brandStrength: 0
   lightness: 0.66135463421233
   saturation: 0.31512140459381044
   rhythmicContrast: 0.6017816099338233
