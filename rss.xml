@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Test Cable Street]]></title>
         <description><![CDATA[Test Cable Street]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test-cable-street/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 19:45:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 19:51:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-cable-street/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9de2b95-9e12-490c-90bc-445b800a2661.jpg">]]></description>
+            <link>https://thegrid.ai/test-cable-street/545b963c-4e51-4753-822f-e518ceb1d36a/index.html</link>
+            <guid isPermaLink="false">545b963c-4e51-4753-822f-e518ceb1d36a</guid>
+            <pubDate>Thu, 07 Apr 2016 19:50:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/647d80fe-784c-45d6-91d0-8c1a2d595efc.jpg">]]></description>
-            <link>undefined8bdc77dd-d3c5-45c3-94ec-2655ad582b7a/index.html</link>
+            <link>https://thegrid.ai/test-cable-street/8bdc77dd-d3c5-45c3-94ec-2655ad582b7a/index.html</link>
             <guid isPermaLink="false">8bdc77dd-d3c5-45c3-94ec-2655ad582b7a</guid>
             <pubDate>Thu, 07 Apr 2016 19:44:41 GMT</pubDate>
         </item>
