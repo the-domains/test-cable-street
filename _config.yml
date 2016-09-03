@@ -1,19 +1,4 @@
-name: Test Cable Street
-favicon: null
-layout_spectrum: 0.69064
 typography_spectrum: 0.35919
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -25,4 +10,20 @@ color:
   lightness: 0.66135463421233
   saturation: 0.31512140459381044
   rhythmicContrast: 0.6017816099338233
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.69064
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Test Cable Street
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: The best band!
 purpose: []
